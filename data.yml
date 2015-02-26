@@ -1,0 +1,8 @@
+---
+ cell: cell1
+ instances: 
+  - i1
+  - i2
+---
+ cell: cell2
+ instances: i3
